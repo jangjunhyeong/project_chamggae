@@ -9,5 +9,8 @@ console.log(search);
 
 
 button[0].addEventListener("click",function(){
-	alert("hi");
+	alert("재료 소개 창");
+})
+search.addEventListener("click",function(){
+	alert("검색창");
 })
